@@ -21,13 +21,12 @@ Made new attributes for training. The thinking behind it is to check whether abs
 Splitting the data into training set, testing set, validation set.
 Firstly, we translated all remaining attributes to English.</br>
 ![PicB](readme_images/split.png) </br>
+![PicB](readme_images/features1.png) </br>
 ![PicB](readme_images/features2.png) </br>
-Firstly, we translated all remaining attributes to English.</br>
+![PicB](readme_images/models.png) </br>
 ![PicB](readme_images/undersample.png) </br>
 ![PicB](readme_images/undersampling_sets.png) </br>
-vFirstly, we translated all remaining attributes to English.</br>
 ![PicB](readme_images/undersample_a.png) </br>
-Firstly, we translated all remaining attributes to English.</br>
 ![PicB](readme_images/undersaple_b.png) </br>
 ![PicB](readme_images/best.png) </br>
 Firstly, we translated all remaining attributes to English.</br>
