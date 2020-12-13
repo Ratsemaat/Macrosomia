@@ -8,15 +8,15 @@ Since the data file given to us was initally excel file, then it contained a lot
 
 ### Data preprocessing
 Firstly, we translated all remaining attributes to English.</br>
-![PicB](readme_images/dropping.png)
-Viusalising the data
-![PicC](readme_images/visualize.png)
-Found missing data and interpolated the data where possible.
-![PicD](readme_images/mssing.png)
-![PicE](readme_images/interpolating.png)
-Made new attributes for training.
-![PicF](readme_images/ featrue_engingeering.png)
-
+![PicB](readme_images/dropping.png) </br>
+Viusalising the data. </br>
+![PicC](readme_images/visualize.png) </br>
+Found missing data and interpolated the data where possible. </br>
+![PicD](readme_images/mssing.png) </br>
+![PicE](readme_images/interpolating.png) </br>
+Made new attributes for training.</br>
+![PicF](readme_images/ featrue_engingeering.png) 
+### Training
 
 
 
