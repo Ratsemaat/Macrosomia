@@ -7,7 +7,7 @@ Since the data file given to us was initally excel file, then it contained a lot
 ![PicA](readme_images/dropping.png)
 
 ### Data preprocessing
-Firstly, we translated all remaining attributes to English.
+Firstly, we translated all remaining attributes to English.</br>
 ![PicB](readme_images/dropping.png)
 Viusalising the data
 ![PicC](readme_images/visualize.png)
