@@ -20,18 +20,18 @@ Made new attributes for training. The thinking behind it is to check whether abs
 ### Training
 Splitting the data into training set, testing set, validation set.
 Firstly, we translated all remaining attributes to English.</br>
-![PicB](readme_images/split.png) </b
-![PicB](readme_images/features2.png) </b
+![PicB](readme_images/split.png) </br>
+![PicB](readme_images/features2.png) </br>
 Firstly, we translated all remaining attributes to English.</br>
-![PicB](readme_images/undersample.png) </b
-![PicB](readme_images/undersampling_sets.png) </b
+![PicB](readme_images/undersample.png) </br>
+![PicB](readme_images/undersampling_sets.png) </br>
 vFirstly, we translated all remaining attributes to English.</br>
-![PicB](readme_images/undersample_a.png) </b
+![PicB](readme_images/undersample_a.png) </br>
 Firstly, we translated all remaining attributes to English.</br>
-![PicB](readme_images/undersaple_b.png) </b
-![PicB](readme_images/best.png) </b
+![PicB](readme_images/undersaple_b.png) </br>
+![PicB](readme_images/best.png) </br>
 Firstly, we translated all remaining attributes to English.</br>
-![PicB](readme_images/m3.png) </b
+![PicB](readme_images/m3.png) </br>
 
 
 
