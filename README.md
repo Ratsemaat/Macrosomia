@@ -28,7 +28,7 @@ We made a function that trains 5 different machine learning algorithms to find, 
 ![PicB](readme_images/models.png) </br>
 Since 85% of our examples were negative, we tried to use undersampling to balance the sets.
 ![PicB](readme_images/undersample.png) </br>
-We used 5 different ways to undersample the sets. The relation between negative and positive examples in these sets were 0.9, 1.2, 1.5, 1.8, 2.1
+We used 6 different ways to undersample the sets. The relation between negative and positive examples in these sets were 0.9, 1, 1.2, 1.5, 2, 3. </br>
 ![PicB](readme_images/undersampling_sets.png) </br>
 Training models on undersampled data. </br>
 ![PicB](readme_images/undersample_a.png) </br>
