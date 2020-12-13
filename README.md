@@ -4,7 +4,7 @@ The goal of our project is to find factors, which predict fetal macrosomia. In o
 The objective of this ReadMe is to give explanations to questions that may arise from code. Project uses following modules: pandas, sklearn, numpy, xgboost
 ### Cleaning data
 Since the data file given to us was initally excel file, then it contained a lot of excesssive data. In this step, we got rid of duplicate data
-![Alt text](../../readme_images/dropping.png?raw=true "Title")
+![PicA](../../readme_images/dropping.png?)
 
 ### Data preprocessing
 Firstly, we translated all remaining attributes to English. 
